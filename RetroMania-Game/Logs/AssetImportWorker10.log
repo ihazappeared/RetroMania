@@ -1,0 +1,159 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 4003 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker10
+-projectPath
+C:/Users/Gabri/Desktop/Stuff/Unity/RetroMania
+-logFile
+Logs/AssetImportWorker10.log
+-srvPort
+49890
+Successfully changed project path to: C:/Users/Gabri/Desktop/Stuff/Unity/RetroMania
+C:/Users/Gabri/Desktop/Stuff/Unity/RetroMania
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 204.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Gabri/Desktop/Stuff/Unity/RetroMania/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920M (ID=0x1299)
+    Vendor:   
+    VRAM:     2009 MB
+    Driver:   25.21.14.2531
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004360 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 197.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.644 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015737 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 215.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.275 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.85 seconds
+Refreshing native plugins compatible for Editor in 1.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3760 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.6 MB.
+System memory in use after: 179.4 MB.
+
+Unloading 132 unused Assets to reduce memory usage. Loaded Objects now: 4185.
+Total: 8.662100 ms (FindLiveObjects: 0.550000 ms CreateObjectMapping: 0.339900 ms MarkObjects: 6.633900 ms  DeleteObjects: 1.135600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Assets/dsplpain.mp3
+  artifactKey: Guid(95cbd3f3eb4a72a40931b3f94c72975f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/dsplpain.mp3 using Guid(95cbd3f3eb4a72a40931b3f94c72975f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17dec2e66cac80d44dcbe688be6c27c') in 4.276343 seconds
+  Import took 4.356379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001412 seconds.
+  path: Assets/Assets/pickup.mp3
+  artifactKey: Guid(54f5ffa81194547429ff1ac7c9d74204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/pickup.mp3 using Guid(54f5ffa81194547429ff1ac7c9d74204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0751b4ee81b8d18c43cc3069c6e3e8d5') in 0.307833 seconds
+  Import took 0.681782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000586 seconds.
+  path: Assets/Assets/8d82b5_Doom_Shotgun_Firing_Sound_Effect.mp3
+  artifactKey: Guid(c4db3f088e4a1e448a92d22b8b7d4d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/8d82b5_Doom_Shotgun_Firing_Sound_Effect.mp3 using Guid(c4db3f088e4a1e448a92d22b8b7d4d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9954eb9cc7699b5e139cf39bb450bf20') in 0.219825 seconds
+  Import took 0.277321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000643 seconds.
+  path: Assets/Assets/8d82b5_Doom_Pistol_Firing_Sound_Effect.mp3
+  artifactKey: Guid(db72adc045a75c44a91a8a10093170ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/8d82b5_Doom_Pistol_Firing_Sound_Effect.mp3 using Guid(db72adc045a75c44a91a8a10093170ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4904e191c6713877c08b4aa274b2a8ca') in 0.184422 seconds
+  Import took 0.458266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Assets/1200px-White_dot.png
+  artifactKey: Guid(ac4caf521e707e9489344f7388b4b21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/1200px-White_dot.png using Guid(ac4caf521e707e9489344f7388b4b21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0e07ee2169eea1405219eb986c0d100') in 7.443141 seconds
+  Import took 7.478036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/Assets/Gold.asset
+  artifactKey: Guid(14b4d6682911fe54ca7ff79c5e5f2a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Gold.asset using Guid(14b4d6682911fe54ca7ff79c5e5f2a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a31222e898748a086b21d1bca47a169') in 0.682399 seconds
+  Import took 0.925185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Assets/dooropen.mp3
+  artifactKey: Guid(adf3d560fdcb9e642ac72b515177e5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/dooropen.mp3 using Guid(adf3d560fdcb9e642ac72b515177e5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd302119248bb2137b15a9cb3a201b96') in 0.558045 seconds
+  Import took 0.827119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001111 seconds.
+  path: Assets/Assets/doorclose.mp3
+  artifactKey: Guid(6d7f73a8dfb0c3f489efe760b6eb3fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/doorclose.mp3 using Guid(6d7f73a8dfb0c3f489efe760b6eb3fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '019ffab5a31e483dcc9b702d6a2f0d52') in 0.966017 seconds
+  Import took 1.064728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000571 seconds.
+  path: Assets/Assets/bensound-extremeaction.mp3
+  artifactKey: Guid(76d143cf9aaf1b845be7caaf64a2091e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/bensound-extremeaction.mp3 using Guid(76d143cf9aaf1b845be7caaf64a2091e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bc02536261655c67af75199cdb61393') in 0.510842 seconds
+  Import took 0.579452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000605 seconds.
+  path: Assets/Assets/BG.jpg
+  artifactKey: Guid(6f8e4388e1aa0434cbf836d0689025a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/BG.jpg using Guid(6f8e4388e1aa0434cbf836d0689025a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aee18ba6e7af201cf2ce1fa3f9a60b6') in 0.683770 seconds
+  Import took 0.818330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069125 seconds.
+  path: Assets/Assets/Low Poly SuperHero.obj
+  artifactKey: Guid(e25cfd3f87e1a424eb0128f6c6b93b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Low Poly SuperHero.obj using Guid(e25cfd3f87e1a424eb0128f6c6b93b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e10c241d306c783a0abe7998219d1e79') in 6.449747 seconds
+  Import took 6.529606 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
